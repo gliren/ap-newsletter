@@ -1,0 +1,40 @@
+.spotlight {background: url(../images/spotlight.png) no-repeat 50% 50% transparent; background-size:100%;}
+/* Colors Blue: #007DC3;*/
+/* Physician Relations */
+.jobs{ margin: 20px 0 30px;}.jobs_list{ list-style: none; padding: 0; margin:0; }.jobs_title{ padding: 13px; background: #f1f1f1; font-weight: 400; border: none; font-size: 18px; color: rgba(64, 63, 63, 0.82);}.jobs_link{ margin: 3px 0; padding: 13px; font-size: 16px; -webkit-align-items: center; align-items: center; -ms-flex-align: center; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-justify-content: space-between; justify-content: space-between; -ms-flex-pack: justify;}.jobs li{ border-top: 1px solid #f1f1f1;}.jobs_title+li{ border-top: none;}.jobs_list li a:hover{ color: rgba(64, 63, 63, 0.82);}/* Best of the Best */.little-thumb{ }.botb .modal-body img{ float: left; width: 50%; margin-right: 2em; margin-bottom: 2em;}.botb .modal-body .alignright{ margin: 0 !important; float: none !important;}.botb img{ width: 60%;}.best, .program img{ margin-bottom: 2em; }.pics{background: #f1f1f1; padding: 2em 0;}.recognition{ margin: 2em 0 0; padding: 3em 0 .1em;}.location{ color: #999; font-size: 0.9em; font-style: italic; }
+
+.db-blue{
+  border-top: 1px solid #1e73be;
+  border-bottom:1px solid #1e73be;
+  color:#1e73be;
+  padding: 10px 0;
+  display:block;
+  text-align: center;
+}
+
+.sg-blue{
+  border-bottom:1px solid #1e73be;
+  padding: 10px 0;
+  margin-bottom: 40px;
+}
+
+.award{
+  margin-bottom: 30px;
+}
+
+.award-info .type{
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.award-info .person{
+  margin-bottom: 2px;
+}
+
+.award-info .place{
+    color: #909090;
+    font-size: 13px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
